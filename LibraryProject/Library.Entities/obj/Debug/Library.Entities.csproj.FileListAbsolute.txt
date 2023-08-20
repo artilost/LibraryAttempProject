@@ -1,0 +1,6 @@
+C:\Users\musta\source\repos\LibraryAttempProject\LibraryProject\Library.Entities\bin\Debug\Library.Entities.dll
+C:\Users\musta\source\repos\LibraryAttempProject\LibraryProject\Library.Entities\bin\Debug\Library.Entities.pdb
+C:\Users\musta\source\repos\LibraryAttempProject\LibraryProject\Library.Entities\obj\Debug\Library.Entities.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\LibraryAttempProject\LibraryProject\Library.Entities\obj\Debug\Library.Entities.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\LibraryAttempProject\LibraryProject\Library.Entities\obj\Debug\Library.Entities.dll
+C:\Users\musta\source\repos\LibraryAttempProject\LibraryProject\Library.Entities\obj\Debug\Library.Entities.pdb
