@@ -34,8 +34,10 @@
             // 
             // dgwMembers
             // 
+            this.dgwMembers.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgwMembers.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwMembers.Location = new System.Drawing.Point(12, 143);
+            this.dgwMembers.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.dgwMembers.Location = new System.Drawing.Point(12, 12);
             this.dgwMembers.Name = "dgwMembers";
             this.dgwMembers.RowHeadersWidth = 51;
             this.dgwMembers.RowTemplate.Height = 24;
